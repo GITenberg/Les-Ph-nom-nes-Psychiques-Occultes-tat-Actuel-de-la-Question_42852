@@ -1,0 +1,28 @@
+_repo: Les-Ph-nom-nes-Psychiques-Occultes-tat-Actuel-de-la-Question_42852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coste, Albert
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '41887'
+    url: http://www.gutenberg.org/2009/agents/41887
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2013-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42852'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology'
+- !lcsh 'Parapsychology -- Investigation'
+- !lcc 'BF'
+title: 'Les Phénomènes Psychiques Occultes: État Actuel de la Question'
+url: http://www.gutenberg.org/ebooks/42852
